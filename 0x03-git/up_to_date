@@ -1,1 +1,4 @@
-echo touch
+touch
+echo
+vi
+vm
